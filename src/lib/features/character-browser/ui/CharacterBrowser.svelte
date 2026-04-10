@@ -9,7 +9,7 @@
 
 <section class="hero">
 	<div class="eyebrow">SvelteKit · Rick and Morty</div>
-	<h1>Arquitectura frontend lista para crecer sin mezclar UI con negocio.</h1>
+	<h1>fredy sierra - itan jamyd vidal - armando torres.</h1>
 	<p>
 		Base feature-first/domain-first con contratos claros entre pantalla, dominio y API.
 	</p>
